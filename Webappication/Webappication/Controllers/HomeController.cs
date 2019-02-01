@@ -10,15 +10,11 @@ namespace Webappication.Controllers
     {
         public ActionResult Index()
         {
-            //----Changes
-            //-----Code is edited from GitHub
             return View();
         }
 
         public ActionResult About()
         {
-        
-        //-----Code edited from GitHub
             ViewBag.Message = "Your application description page.";
 
             return View();
