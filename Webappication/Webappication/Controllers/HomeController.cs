@@ -18,7 +18,7 @@ namespace Webappication.Controllers
         public ActionResult About()
         {
         
-        //-----Codeedited from GitHub
+        //-----Code edited from GitHub
             ViewBag.Message = "Your application description page.";
 
             return View();
