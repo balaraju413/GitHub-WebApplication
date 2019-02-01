@@ -15,6 +15,7 @@ namespace Webappication.Controllers
 
         public ActionResult About()
         {
+            //Changes
             ViewBag.Message = "Your application description page.";
 
             return View();
@@ -22,6 +23,8 @@ namespace Webappication.Controllers
 
         public ActionResult Contact()
         {
+            ///ViewBag.Message = "Your contact page.";
+
             ViewBag.Message = "Your contact page.";
 
             return View();
