@@ -26,7 +26,7 @@ namespace Webappication.Controllers
             ///ViewBag.Message = "Your contact page.";
 
 
-            //---Hello Changes from bala personal Desktop
+            //--
             ViewBag.Message = "Your contact page.";
 
             return View();
